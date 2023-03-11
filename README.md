@@ -63,4 +63,4 @@ Unit Testing
 
 ###### Requirements
 
-The requirements are within the SQL_Assessemnt dir
+The requirements are within the SQL_Assessemnt directory
