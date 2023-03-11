@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+15,Blessing,WA,9.25,Laminate,100.00,1.75,2.10,175.00,210.00,34.65,419.65
